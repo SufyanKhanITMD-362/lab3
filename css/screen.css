@@ -222,7 +222,7 @@ h1 {
    width: 100%;
    text-align: center;
    font-size: 40px;
-   padding: 20px;
+   padding: 10px;
    font-weight: bold;
    background-color: #f75c5c;
    font-family: auto;
@@ -230,7 +230,7 @@ h1 {
 
 p {
    font-size: 24px;
-   padding: 20px;
+   padding: 10px;
    background-color: #79edfc;
    text-align: center;
    font-family: auto;
@@ -240,8 +240,8 @@ p {
    display: block;
    text-align: center;
    width: 100%;
-   padding: 20px;
-   background-color:#79edfc;
+   padding: 10px;
+   background-color:#F9F9A5;
    font-family: auto;
 }
 
@@ -249,8 +249,8 @@ p {
    width: 100%;
    display: block;
    text-align: center;
-   padding: 20px;
-   background-color:#23384C;
+   padding: 10px;
+   background-color:#E438F8;
    font-family: auto;
 }
 
@@ -258,7 +258,7 @@ p {
    width: 100%;
    display: block;
    text-align: center;
-   padding: 20px;
+   padding: 10px;
    background-color:#325170;
    font-family: auto;
 }
