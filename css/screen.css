@@ -229,6 +229,7 @@ h1 {
 }
 
 p {
+   width: 100%;
    font-size: 24px;
    padding: 10px;
    background-color: #79edfc;
@@ -259,7 +260,7 @@ p {
    display: block;
    text-align: center;
    padding: 10px;
-   background-color:#325170;
+   background-color:#08FC1E;
    font-family: auto;
 }
 /* ===== STATE STYLES ======= */
